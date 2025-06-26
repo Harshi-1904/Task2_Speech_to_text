@@ -45,3 +45,6 @@ For example:
 - Google Speech API (for accurate results)
 
 ---
+Ouput
+---
+![Image](https://github.com/user-attachments/assets/6d98a549-d56e-4c93-8ad6-d3a9066db31f)
